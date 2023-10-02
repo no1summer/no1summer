@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is Tian Xia. I am currently a Ph.D. student in the Quantitative & Computational Biosciences program at Baylor College of Medicine under the supervision of Dr. Irina Larina. My Ph.D. thesis focus is developing computational approaches to analyze imaging data of mouse reproductive system and activity. Other than thesis projects, I have extensive experience in data science, machine learning, and computational biology.
 <!--
 **no1summer/no1summer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
